@@ -1,0 +1,40 @@
+.services{
+    padding:2rem 4rem ;
+    font-size: 1rem;
+    max-width: 100vw;
+    max-height: 100vh;
+    line-height: 1.5;
+}
+
+.group{
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    gap: 2%;
+    height: 32%;
+    margin: 2rem 0rem;
+    margin-top: 4rem;
+}
+
+.design-box{
+    border-radius: 30px;
+    padding: 1rem 1.5rem;
+    background-color: lightgrey;
+}
+.footer{
+    text-align: center;
+    margin-top: 5rem;
+}
+.footer a{
+    text-decoration: none;
+    margin: 0rem 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 28px;
+}
+.a{
+    border: 1px solid rgb(243, 211, 0);
+    
+}
+.b{
+    background-color: rgb(243, 211, 0);
+    font-weight: bold;
+}

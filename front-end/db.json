@@ -1,0 +1,24 @@
+{
+    "services":[
+        {
+            
+                "id":1,
+                "icon":"",
+                "title":"Product Design",
+                "text":"Let me help you focus on the core task flow,validate the design solutions.collect your own data.understand your users and just dont copy your competitor "
+              },
+              {
+                "id":"2",
+                "icon":"",
+                "title":"Front-end Engineering",
+                "text":"Let me help you focus on the core task flow,validate the design solutions.collect your own data.understand your users and just dont copy your competitor "
+              },
+              {
+                "id":"3",
+                "icon":"",
+                "title":"Teaching",
+                "text":"Let me help you focus on the core task flow,validate the design solutions.collect your own data.understand your users and just dont copy your competitor "
+              }
+        
+
+]}
